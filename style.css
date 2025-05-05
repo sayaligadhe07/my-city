@@ -1,0 +1,18 @@
+h1
+{
+    background: rgb(223, 11, 138);
+    color: rgb(254, 251, 253);
+    padding-left: 500px;
+}
+h2{
+    background-color: rgb(240, 240, 44);
+    color: rgb(223, 11, 138);
+}
+.img{
+    margin: 50px;
+    margin-left: 500px;
+  }
+  .button{
+    background-color: rgb(62, 225, 44);
+    margin: 20px;
+  }
